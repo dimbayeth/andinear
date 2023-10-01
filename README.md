@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andinear
+- 👋 Hi, I’m @dimbay
 - 👀 I’m interested in crypto and blockchain
 - 🌱 I’m currently learning node blockchain
 - 💞️ I’m looking to collaborate on sharing tecnology
